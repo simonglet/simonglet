@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @simonglet
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me simon.glet@gmail.com
 
 <!---
